@@ -1,0 +1,20 @@
+{
+  "name": "a-frame-pong",
+  "version": "1.0.0",
+  "description": "VR Pong using A-Frame Framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test_server.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackfrye/a-frame-pong.git"
+  },
+  "author": "John C. Frye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackfrye/a-frame-pong/issues"
+  },
+  "homepage": "https://github.com/jackfrye/a-frame-pong#readme"
+}
